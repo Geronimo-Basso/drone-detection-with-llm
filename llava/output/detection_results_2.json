@@ -1,0 +1,2002 @@
+{
+    "img1010424.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058448.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010418.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010381.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009820.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058662.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058676.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010168.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058845.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058851.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010034.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010550.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010222.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009773.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010544.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009997.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009996.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009772.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010545.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010551.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010035.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058850.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058844.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058677.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010169.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058663.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009821.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010380.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010419.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058449.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010425.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010427.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010382.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009823.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058661.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058852.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058846.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010037.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010547.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010221.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009770.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010553.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009994.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010209.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009995.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010552.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010546.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009771.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010220.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010036.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058847.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058853.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058674.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009822.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010383.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1023952.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010426.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010378.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010422.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009615.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009826.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010387.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058670.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058664.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009403.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058857.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058843.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010032.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009588.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010218.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009775.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010542.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010556.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010557.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009774.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010543.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010219.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009589.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010033.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010027.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058842.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058856.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009402.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058665.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058671.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010386.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009827.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010423.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009614.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010379.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009158.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009616.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010421.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009825.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010384.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009819.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010390.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058667.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058673.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009400.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1004871.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009399.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058840.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058854.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009548.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010031.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009992.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010555.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010541.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009776.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1057839.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1057838.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010540.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009777.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010554.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009993.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010030.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009549.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004858.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058841.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009398.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004870.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009401.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058672.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058666.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010178.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009818.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010385.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009824.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009830.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009617.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010420.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010484.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010490.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010123.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010137.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009328.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058826.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058832.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009499.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004803.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058775.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010080.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010527.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009738.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010282.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009923.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009922.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010283.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009739.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010526.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010081.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009498.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058833.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058827.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009329.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010136.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010122.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010485.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010446.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010444.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009883.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010487.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010134.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010120.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058831.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058825.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058819.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058776.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010083.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058789.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009288.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010524.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010530.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010518.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010281.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009934.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009935.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010280.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004593.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010519.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010531.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010525.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009289.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058788.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010082.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058777.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058818.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058824.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058830.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010121.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010135.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010486.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009882.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010445.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009886.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010441.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058439.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009689.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010482.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010131.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009460.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010125.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058808.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058834.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058820.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009528.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010079.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009500.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058798.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010521.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010247.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009931.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009925.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009924.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009930.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010520.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010246.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058799.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009501.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010078.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009529.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058821.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058835.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058809.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010124.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009461.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010130.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010483.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009688.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058438.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010440.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009885.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010442.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010126.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010132.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058823.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058837.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009503.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009517.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010244.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010522.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009926.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009932.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009933.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009927.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010245.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010523.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010279.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009516.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009502.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058836.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058822.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009462.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010133.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010127.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010443.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009884.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010466.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009692.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009686.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009335.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009453.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058807.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058813.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009527.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010076.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058797.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058783.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009731.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009730.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058782.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058796.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010077.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009526.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058812.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058806.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009334.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009687.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009693.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010467.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010465.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009685.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009691.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009336.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010129.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058810.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058804.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058838.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009524.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010075.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009518.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058780.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058794.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009732.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010539.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009929.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1057841.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1057840.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009928.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010538.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058795.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058781.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009519.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010074.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009525.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058839.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058805.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058811.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010128.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009337.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004613.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009690.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009684.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010464.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009694.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010138.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009327.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009333.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058829.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058815.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058801.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009496.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009521.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058785.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058791.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009290.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010528.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009737.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009736.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010529.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009291.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058790.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058784.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009520.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058800.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009497.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058814.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058828.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009332.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009454.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009695.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010461.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010463.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010488.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009697.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009330.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009495.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058802.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058816.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009522.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058779.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058792.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058786.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009287.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010517.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004588.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058793.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058778.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009523.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058817.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058803.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009331.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009696.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010489.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010462.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009154.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009626.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010377.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058441.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058455.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009829.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010388.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010175.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009424.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009418.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004869.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009395.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058858.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004855.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009544.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009550.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010029.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009587.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010217.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010559.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010558.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010564.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009586.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010028.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009579.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009551.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009545.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058859.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009394.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004868.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009419.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009425.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010174.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010389.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009828.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058454.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058440.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010376.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009627.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009155.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009625.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010374.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009157.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009619.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058442.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010176.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058668.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009396.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004856.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009553.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009547.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009590.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009584.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009779.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1057837.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009778.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009585.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009591.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009546.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009552.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1004857.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009397.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009426.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010177.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058669.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009817.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058443.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009618.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009156.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010375.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009624.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058453.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058447.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009620.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010371.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010417.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010173.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009422.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010167.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058862.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009393.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009556.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009581.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009768.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010563.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010211.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009998.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010210.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010562.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009769.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009580.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1009557.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009392.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058863.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009423.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010172.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010370.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009621.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058446.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058452.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058444.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010428.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058450.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009623.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010372.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010170.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009421.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058849.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1058861.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009390.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009555.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009582.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010548.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010212.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010560.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009780.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1057830.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1057831.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009781.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010561.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010213.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010549.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009583.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009554.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009391.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058860.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058848.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009420.jpg": {
+        "result": 1,
+        "ground_truth": 1
+    },
+    "img1010171.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010373.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1009622.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058451.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1010429.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    },
+    "img1058445.jpg": {
+        "result": 0,
+        "ground_truth": 1
+    }
+}

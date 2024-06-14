@@ -1,0 +1,38 @@
+Using device: cpu
+`config.hidden_act` is ignored, you should use `config.hidden_activation` instead.
+Gemma's activation function will be set to `gelu_pytorch_tanh`. Please, use
+`config.hidden_activation` if you want to override this behaviour.
+See https://github.com/huggingface/transformers/pull/29402 for more details.
+Loading checkpoint shards: 100%|██████████| 3/3 [00:17<00:00,  5.80s/it]
+Model inputs for img1049551.jpg
+Empty result after prompt extraction for img1049551.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [00:24<00:00,  8.17s/it]
+Model inputs for img1046662.jpg
+Empty result after prompt extraction for img1046662.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [00:25<00:00,  8.53s/it]
+Model inputs for img1018078.jpg
+<loc0441><loc0455><loc0480><loc0543> drones
+Loading checkpoint shards: 100%|██████████| 3/3 [00:28<00:00,  9.66s/it]
+Model inputs for img1007158.jpg
+Empty result after prompt extraction for img1007158.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [00:24<00:00,  8.30s/it]
+Model inputs for img1048897.jpg
+Empty result after prompt extraction for img1048897.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [00:23<00:00,  7.98s/it]
+Model inputs for img1021821.jpg
+Empty result after prompt extraction for img1021821.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [00:22<00:00,  7.64s/it]
+Model inputs for img1010424.jpg
+Empty result after prompt extraction for img1010424.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [00:24<00:00,  8.02s/it]
+Model inputs for img1056471.jpg
+Empty result after prompt extraction for img1056471.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [04:01<00:00, 80.63s/it]
+Model inputs for img1027288.jpg
+Empty result after prompt extraction for img1027288.jpg
+Loading checkpoint shards: 100%|██████████| 3/3 [00:25<00:00,  8.53s/it]
+Model inputs for img1040213.jpg
+<loc0412><loc0318><loc0574><loc0368> drones
+Loading checkpoint shards: 100%|██████████| 3/3 [00:24<00:00,  8.28s/it]
+Model inputs for img1006246.jpg
+Empty result after prompt extraction for img1006246.jpg
