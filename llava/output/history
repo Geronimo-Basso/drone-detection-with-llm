@@ -1,3 +1,11 @@
+12/06/2024:
+
+Total processed images: 1001
+Results saved to detection_results.json
+Yes count: 92, No count: 401
+Time took for 500 images: 1630.4003410339355 seconds
+
+
 14/06/2023 22:52
 
 Executed the llava-make-classification.py for the 500 images in the dataset, the results where the following:
