@@ -10,7 +10,7 @@ import subprocess
 import json
 import time
 
-input_directory = '/Users/geronimobasso/Desktop/extra/drones/database/originales-500'
+input_directory = '/Users/geronimobasso/Desktop/extra/drones/code/computer-vision/originales-500'
 dir_list = os.listdir(input_directory)
 
 results = {}
@@ -51,7 +51,6 @@ def process_image(image_path):
     except Exception as e:
         return str(e)
 
-
 start_time = time.time()
 
 for filename in dir_list:
@@ -62,7 +61,6 @@ for filename in dir_list:
 
         ground_truth_label = get_ground_truth(filename)
 
-        # Update results dictionary
         results[filename] = {"result": result, "ground_truth": ground_truth_label}
 
         ground_truth_labels.append(ground_truth_label)
@@ -74,6 +72,6 @@ end_time = time.time()
 elapsed_time = end_time - start_time
 
 # Save results to a JSON file
-output_file = 'output/detection_results_2.json'
+output_file = 'output/llava_results_classification.json'
 with open(output_file, 'w') as f:
     json.dump(results, f, indent=4)

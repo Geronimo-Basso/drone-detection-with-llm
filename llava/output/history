@@ -1,0 +1,25 @@
+14/06/2023 22:52
+
+Executed the llava-make-classification.py for the 500 images in the dataset, the results where the following:
+
+Confusion Matrix:
+[[  0   0]
+ [423  77]]
+Accuracy: 0.15
+Precision: 1.00
+Recall: 0.15
+F1 Score: 0.27
+AUC: Not applicable (only one class present)
+Matthews Correlation Coefficient: 0.00
+Cohen’s Kappa: 0.00
+Specificity: 0.00
+Balanced Accuracy: 0.15
+F2 Score: 0.19
+Log Loss: Not applicable (only one class present)
+Average Precision Score: Not applicable (only one class present)
+Total processed images: 500
+
+So, out of the 500 drone images, it detected 77 with drones and 423 with drones.
+
+
+------------------------------------------------------------------------------------------------------

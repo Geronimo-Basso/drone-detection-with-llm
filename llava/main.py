@@ -1,5 +1,5 @@
 """
-Code working correctly, just need to address the fast that the model does not return 0 or 1 always. Also, need to implement some statistics way for showing stats.
+Code working correctly, just need to address the fact that the model does not return 0 or 1 always. Also, need to implement some statistics way for showing stats.
 """
 import os
 import subprocess
