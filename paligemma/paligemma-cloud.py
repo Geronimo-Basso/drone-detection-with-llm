@@ -11,7 +11,7 @@ notebook_login()
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 start_time = time.time()
-image_folder = "/Users/geronimobasso/Desktop/extra/drones/database/originales-400"
+image_folder = "/teamspace/studios/this_studio/drone-detection-with-llm/originales-400"
 results = {}
 
 input_text = "Detect drone"
