@@ -6,6 +6,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.generation import GenerationConfig
 import json
+import time
 
 # Load all images
 base_directory = '../originales-500'
@@ -26,6 +27,9 @@ with os.scandir(base_directory) as entries:
 
 print(f"Images in total: {len(images_filenames)}")
 print(f"Text files in total: {len(txt_filenames)}")
+
+start_time = time.time()
+print(f"Start timer")
 
 # Download the model
 torch.manual_seed(1234)
@@ -103,4 +107,7 @@ output_json_path = os.path.join(base_directory_predictions, 'results.json')
 with open(output_json_path, 'w') as json_file:
     json.dump(results, json_file, indent=4)
 
+finish_time = time.time()
+elapsed_time = finish_time - start_time
 print(f"Images with results: {image_prediction}, Images without results: {image_no_prediction}")
+print(f"Total time: {elapsed_time}")
