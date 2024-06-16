@@ -9,8 +9,8 @@ import json
 import time
 
 # Load all images
-base_directory = '../originales-500'
-base_directory_predictions = '/output'
+base_directory = '/teamspace/studios/this_studio/drone-detection-with-llm/originales-500'
+base_directory_predictions = '/teamspace/studios/this_studio/drone-detection-with-llm/qwen/output/'
 image_count = 0
 images_filenames = []
 txt_count = 0
@@ -74,8 +74,7 @@ for file_name in images_filenames:
 
     query = tokenizer.from_list_format([
         {'image': file_name},
-        {
-            "text": "Detect all drones in the image and provide their bounding box coordinates in the format [x_center, y_center, width, height] as normalized values between 0 and 1."}
+        {"text": "Give me the bounding box of drones in the photo, if any exist."}
     ])
     response, history = model.chat(tokenizer, query=query, history=None)
 
