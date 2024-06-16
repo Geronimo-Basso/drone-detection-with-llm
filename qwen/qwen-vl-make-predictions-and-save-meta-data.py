@@ -113,7 +113,7 @@ for file_name in images_filenames:
     print(f"Response for {file_name}: {response}. Normalized coordinates result: {formatted_bounding_boxes}")
 
 # Save results to JSON
-output_json_path = os.path.join(base_directory_predictions, 'results.json')
+output_json_path = os.path.join(base_directory_predictions, 'results-2.json')
 with open(output_json_path, 'w') as json_file:
     json.dump(results, json_file, indent=4)
 
