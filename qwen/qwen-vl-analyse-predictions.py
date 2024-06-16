@@ -91,6 +91,15 @@ def create_confusion_matrix(ious):
     plt.title('Confusion Matrix')
     plt.show()
 
+    tp = cm[1, 1]
+    fn = cm[1, 0]
+    total = tp + fn
+    percentage = (tp / total) * 100 if total != 0 else 0
+
+    print(f"Drones detected (True Positives): {tp}")
+    print(f"No drones detected (False Negatives): {fn}")
+    print(f"Percentage of drones correctly detected: {percentage:.2f}%")
+
 
 # Load the JSON data
 file_path = 'output/results-3.json'
@@ -102,5 +111,3 @@ ious = calculate_ious(data)
 
 # Create Confusion Matrix
 create_confusion_matrix(ious)
-
-# If you need to use this script directly, replace 'path_to_your_file.json' with the actual path to your JSON file.
