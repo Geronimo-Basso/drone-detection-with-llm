@@ -55,7 +55,7 @@ def calculate_ious(data):
     list: List of tuples (iou, is_true_positive)
     """
     ious = []
-    threshold = 0.2  # Define your IoU threshold for true positives
+    threshold = 0.5  # Define your IoU threshold for true positives
     for item in data:
         pred_boxes = item['bounding_box_prediction']
         gt_boxes = item['ground_truth_bounding_boxes']
