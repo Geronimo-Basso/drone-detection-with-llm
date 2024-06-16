@@ -1,14 +1,15 @@
 import os
 import re
 from pathlib import Path
-from PIL import Image, ImageDraw
+from PIL import Image
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.generation import GenerationConfig
+import json
 
 # Load all images
-base_directory = '../../../teamspace/studios/this_studio/data/qwen-500'
-base_directory_predictions = 'qwen/inference-results-7/'
+base_directory = '../originales-500'
+base_directory_predictions = '/output'
 image_count = 0
 images_filenames = []
 txt_count = 0
@@ -32,12 +33,13 @@ tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen-VL-Chat", trust_remote_code
 model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen-VL-Chat", device_map="cuda", trust_remote_code=True).eval()
 model.generation_config = GenerationConfig.from_pretrained("Qwen/Qwen-VL-Chat", trust_remote_code=True)
 
+
 # Function to normalize and format bounding boxes
 def normalize_and_format_bounding_boxes(matches, image_width, image_height):
     normalized_boxes = []
     for i in range(0, len(matches), 2):
         x1, y1 = map(int, matches[i].strip('()').split(','))
-        x2, y2 = map(int, matches[i+1].strip('()').split(','))
+        x2, y2 = map(int, matches[i + 1].strip('()').split(','))
 
         center_x = (x1 + x2) / 2 / image_width
         center_y = (y1 + y2) / 2 / image_height
@@ -61,18 +63,44 @@ def parse_bounding_boxes(file_path):
 # Processing images
 image_prediction = 0
 image_no_prediction = 0
+results = []
 
 for file_name in images_filenames:
     image_path = file_name
-    
+
     query = tokenizer.from_list_format([
         {'image': file_name},
-        {"text": "Give me the bounding box of drones in the photo, if any exist"}        
-        #{'text': 'Give me the bounding box of drones in the photo, if any exist.'}, #Inference results
-        #{'text': '如果有的话，请给我照片中无人机的边界框'}, #Inference results 2
-        #{'text': '检测无人机'}, #Inference results 3
-        #{'text': 'Detect drones in the image.' # Images with results: 45, Images without results: 455
-        #{'text': 'Detect the drones in the photo and give me the bounding box'}, # Inference results 5
-        #{ "text": "Please detect all the drones in the provided photo and return the bounding box coordinates for each detected drone. The coordinates should be in the format [x_center, y_center, width, height], normalized between 0 and 1. Here's an example of the expected output format for a single drone detection:\n\n{\n  \"drones\": [\n    {\"x_center\": 0.5, \"y_center\": 0.5, \"width\": 0.2, \"height\": 0.1}\n  ]\n}\n\nIf there are multiple drones, include all of them in the list."}  # Inference results 6  
+        {
+            "text": "Detect all drones in the image and provide their bounding box coordinates in the format [x_center, y_center, width, height] as normalized values between 0 and 1."}
     ])
     response, history = model.chat(tokenizer, query=query, history=None)
+
+    print(response)
+
+    # Use regex to find all coordinates inside parentheses
+    matches = re.findall(r'\(\d+,\d+\)', response)
+
+    if matches and len(matches) % 2 == 0:
+        # Open the image to get its dimensions
+        with Image.open(image_path) as img:
+            image_width, image_height = img.size
+
+        # Normalize the coordinates and format as required
+        formatted_bounding_boxes = normalize_and_format_bounding_boxes(matches, image_width, image_height)
+
+        image_prediction += 1
+    else:
+        formatted_bounding_boxes = []
+        image_no_prediction += 1
+
+    result = {'image': Path(file_name).name, 'bounding_box_prediction': formatted_bounding_boxes}
+    results.append(result)
+
+    print(f"Response for {file_name}: {response}. Normalized coordinates result: {formatted_bounding_boxes}")
+
+# Save results to JSON
+output_json_path = os.path.join(base_directory_predictions, 'results.json')
+with open(output_json_path, 'w') as json_file:
+    json.dump(results, json_file, indent=4)
+
+print(f"Images with results: {image_prediction}, Images without results: {image_no_prediction}")
