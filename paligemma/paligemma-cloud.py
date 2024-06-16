@@ -1,12 +1,10 @@
-from huggingface_hub import notebook_login
-import torch
-import numpy as np
-from PIL import Image
-import requests
-from transformers import AutoTokenizer, PaliGemmaForConditionalGeneration, PaliGemmaProcessor
 import torch
 import time
 import os
+import json
+from huggingface_hub import notebook_login
+from PIL import Image
+from transformers import PaliGemmaForConditionalGeneration, PaliGemmaProcessor
 
 notebook_login()
 
@@ -28,11 +26,20 @@ for image_file in os.listdir(image_folder):
         processor = PaliGemmaProcessor.from_pretrained(model_id)
 
         inputs = processor(text=input_text, images=input_image,
-                          padding="longest", do_convert_rgb=True, return_tensors="pt").to("cuda")
+                           padding="longest", do_convert_rgb=True, return_tensors="pt").to("cuda")
         model.to(device)
         inputs = inputs.to(dtype=model.dtype)
 
         with torch.no_grad():
-          output = model.generate(**inputs, max_length=4200)
+            output = model.generate(**inputs, max_length=4200)
 
-        print(processor.decode(output[0], skip_special_tokens=True))
+        prediction = processor.decode(output[0], skip_special_tokens=True)
+        print(prediction)
+
+        results[image_file] = prediction
+
+with open('predictions.json', 'w') as json_file:
+    json.dump(results, json_file, indent=4)
+
+end_time = time.time()
+print(f"Total time {end_time - start_time}")
