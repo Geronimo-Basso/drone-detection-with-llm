@@ -31,3 +31,25 @@ Total processed images: 500
 
 So, out of the 500 drone images, it detected 77 with drones and 423 with drones.
 ------------------------------------------------------------------------------------------------------
+
+16/06/2024 21:44
+
+*** New dataset 400 images, also added the info for each detected drone ***
+Confusion Matrix:
+
+[[  0   0]
+ [310  90]]
+Accuracy: 0.23
+Precision: 1.00
+Recall: 0.23
+F1 Score: 0.37
+AUC: Not applicable (only one class present)
+Matthews Correlation Coefficient: 0.00
+Cohen’s Kappa: 0.00
+Specificity: 0.00
+Balanced Accuracy: 0.23
+F2 Score: 0.27
+Log Loss: Not applicable (only one class present)
+Average Precision Score: Not applicable (only one class present)
+Total processed images: 400
+

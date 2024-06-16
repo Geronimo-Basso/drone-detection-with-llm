@@ -4,7 +4,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, r
     average_precision_score
 
 # Load the results from JSON file
-input_file = 'output/llava_results_classification.json'
+input_file = 'output/llava_results_classification_2.json'
 with open(input_file, 'r') as f:
     results = json.load(f)
 

@@ -10,7 +10,7 @@ import subprocess
 import json
 import time
 
-input_directory = '/Users/geronimobasso/Desktop/extra/drones/code/computer-vision/originales-500'
+input_directory = '/Users/geronimobasso/Desktop/extra/drones/code/computer-vision/originales-400'
 dir_list = os.listdir(input_directory)
 
 results = {}
