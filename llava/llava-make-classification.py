@@ -70,6 +70,7 @@ for filename in dir_list:
 
 end_time = time.time()
 elapsed_time = end_time - start_time
+print(elapsed_time)
 
 # Save results to a JSON file
 output_file = 'output/llava_results_classification.json'
