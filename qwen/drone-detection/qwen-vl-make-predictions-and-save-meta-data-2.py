@@ -107,89 +107,106 @@ def make_predictions():
     print(f"Images with results: {image_prediction}, Images without results: {image_no_prediction}")
     print(f"Total time: {elapsed_time}")
 
+# Function to normalize bounding boxes
+def normalize_bounding_box(box, image_width, image_height):
+    x1, y1 = box[0]
+    x2, y2 = box[1]
+    center_x = (x1 + x2) / 2 / image_width
+    center_y = (y1 + y2) / 2 / image_height
+    width = (x2 - x1) / image_width
+    height = (y2 - y1) / image_height
+    return [center_x, center_y, width, height]
 
-def calculate_iou(pred_box, gt_box):
-    x_min_pred, y_min_pred, w_pred, h_pred = pred_box
-    x_min_gt, y_min_gt, w_gt, h_gt = gt_box
+# Function to calculate Intersection over Union (IoU)
+def calculate_iou(box1, box2):
+    x1_min = box1[0] - box1[2] / 2
+    x1_max = box1[0] + box1[2] / 2
+    y1_min = box1[1] - box1[3] / 2
+    y1_max = box1[1] + box1[3] / 2
 
-    x_max_pred = x_min_pred + w_pred
-    y_max_pred = y_min_pred + h_pred
-    x_max_gt = x_min_gt + w_gt
-    y_max_gt = y_min_gt + h_gt
+    x2_min = box2[0] - box2[2] / 2
+    x2_max = box2[0] + box2[2] / 2
+    y2_min = box2[1] - box2[3] / 2
+    y2_max = box2[1] + box2[3] / 2
 
-    # Calculate intersection
-    x_min_inter = max(x_min_pred, x_min_gt)
-    y_min_inter = max(y_min_pred, y_min_gt)
-    x_max_inter = min(x_max_pred, x_max_gt)
-    y_max_inter = min(y_max_pred, y_max_gt)
+    inter_x_min = max(x1_min, x2_min)
+    inter_x_max = min(x1_max, x2_max)
+    inter_y_min = max(y1_min, y2_min)
+    inter_y_max = min(y1_max, y2_max)
 
-    if x_min_inter < x_max_inter and y_min_inter < y_max_inter:
-        inter_area = (x_max_inter - x_min_inter) * (y_max_inter - y_min_inter)
-    else:
-        inter_area = 0
+    if inter_x_max < inter_x_min or inter_y_max < inter_y_min:
+        return 0.0
 
-    # Calculate union
-    pred_area = w_pred * h_pred
-    gt_area = w_gt * h_gt
-    union_area = pred_area + gt_area - inter_area
+    inter_area = (inter_x_max - inter_x_min) * (inter_y_max - inter_y_min)
+    box1_area = (x1_max - x1_min) * (y1_max - y1_min)
+    box2_area = (x2_max - x2_min) * (y2_max - y2_min)
 
-    iou = inter_area / union_area if union_area != 0 else 0
+    iou = inter_area / (box1_area + box2_area - inter_area)
     return iou
 
+# Function to evaluate predictions
+def evaluate_predictions(predictions, iou_threshold=0.5):
+    total_true = 0
+    total_false = 0
 
-def calculate_ious(data):
-    ious = []
-    threshold = 0.5  # Define your IoU threshold for true positives
-    for item in data:
-        pred_boxes = item['bounding_box_prediction']
-        gt_boxes = item['ground_truth_bounding_boxes']
+    for entry in predictions:
+        image = entry['image']
+        image_width = entry['width']
+        image_height = entry['height']
+        predicted_boxes = entry['bounding_box_prediction']
+        ground_truth_boxes = entry['ground_truth_bounding_boxes']
 
-        for gt_box in gt_boxes:
-            iou_max = 0
-            for pred_box in pred_boxes:
+        # Skip if there are no predicted bounding boxes
+        if not predicted_boxes:
+            entry['correct_detection'] = False
+            total_false += 1
+            continue
+
+        # Convert predicted bounding boxes to normalized format
+        normalized_predicted_boxes = [
+            normalize_bounding_box(
+                [(int(coord.split(',')[0][1:]), int(coord.split(',')[1][:-1])) for coord in predicted_boxes],
+                image_width, image_height
+            )
+        ]
+
+        # Calculate IoU for each predicted box with each ground truth box
+        detection_correct = False
+        for pred_box in normalized_predicted_boxes:
+            for gt_box in ground_truth_boxes:
                 iou = calculate_iou(pred_box, gt_box)
-                iou_max = max(iou_max, iou)
-            ious.append((iou_max, iou_max >= threshold))
+                if iou >= iou_threshold:
+                    entry['correct_detection'] = True
+                    detection_correct = True
+                    total_true += 1
+                    break
+            if detection_correct:
+                break
+        else:
+            entry['correct_detection'] = False
+            total_false += 1
 
-    return ious
+    print(f"Total True: {total_true}")
+    print(f"Total False: {total_false}")
 
-
-def create_confusion_matrix(ious):
-    y_true = [1] * len(ious)  # All ground truths are positive examples
-    y_pred = [int(is_tp) for _, is_tp in ious]
-
-    cm = confusion_matrix(y_true, y_pred, labels=[0, 1])
-    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Negative', 'Positive'],
-                yticklabels=['Negative', 'Positive'])
-    plt.xlabel('Predicted')
-    plt.ylabel('Actual')
-    plt.title('Confusion Matrix')
-    plt.show()
-
-    tp = cm[1, 1]
-    fn = cm[1, 0]
-    total = tp + fn
-    percentage = (tp / total) * 100 if total != 0 else 0
-
-    print(f"Drones detected (True Positives): {tp}")
-    print(f"No drones detected (False Negatives): {fn}")
-    print(f"Percentage of drones correctly detected: {percentage:.2f}%")
-
+    return predictions
 
 def analyse_predictions():
-    # Load the JSON data
-    file_path = 'output/results-4.json'
-    with open(file_path, 'r') as file:
-        data = json.load(file)
+    # Load predictions from JSON
+    predictions_path = 'output/results-5.json'
+    with open(predictions_path, 'r') as file:
+        predictions = json.load(file)
 
-        # normalize data
+    # Evaluate predictions
+    evaluated_predictions = evaluate_predictions(predictions)
 
-    # Calculate IoUs
-    ious = calculate_ious(data)
+    # Save evaluated predictions to a new JSON file
+    output_path = 'output/results-5-analysis.json'
+    with open(output_path, 'w') as file:
+        json.dump(evaluated_predictions, file, indent=4)
 
-    # Create Confusion Matrix
-    create_confusion_matrix(ious)
+    print(f"Evaluated predictions saved to {output_path}")
 
 
-make_predictions()
-#analyse_predictions()
+#make_predictions()
+analyse_predictions()
