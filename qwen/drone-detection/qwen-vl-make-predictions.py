@@ -9,7 +9,7 @@ import json
 import time
 
 # Load all images
-base_directory = '/teamspace/studios/this_studio/drone-detection-with-llm/originales-500'
+base_directory = '/teamspace/studios/this_studio/drone-detection-with-llm/datasets/originales-400-txt-edit'
 base_directory_predictions = '/teamspace/studios/this_studio/drone-detection-with-llm/qwen/output/'
 image_count = 0
 images_filenames = []
@@ -78,8 +78,6 @@ for file_name in images_filenames:
     ])
     response, history = model.chat(tokenizer, query=query, history=None)
 
-    print(response)
-
     # Use regex to find all coordinates inside parentheses
     matches = re.findall(r'\(\d+,\d+\)', response)
 
@@ -102,7 +100,7 @@ for file_name in images_filenames:
     print(f"Response for {file_name}: {response}. Normalized coordinates result: {formatted_bounding_boxes}")
 
 # Save results to JSON
-output_json_path = os.path.join(base_directory_predictions, 'results.json')
+output_json_path = os.path.join(base_directory_predictions, 'results-4.json')
 with open(output_json_path, 'w') as json_file:
     json.dump(results, json_file, indent=4)
 
