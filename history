@@ -1,4 +1,6 @@
-First attempt of using Qwen for classification:
+19/06/2024
+
+Qwen VL - Classification:
 
 Images with drone: 220, Images without drone: 180
 Total time: 249.83396649360657
