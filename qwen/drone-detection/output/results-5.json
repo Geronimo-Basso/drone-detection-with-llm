@@ -1,0 +1,6504 @@
+[
+    {
+        "image": "img1004588.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(334,223)",
+            "(365,278)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.35390625,
+                0.24861111111111112,
+                0.025,
+                0.05277777777777778
+            ]
+        ]
+    },
+    {
+        "image": "img1004593.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(406,344)",
+            "(504,416)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4546875,
+                0.3763888888888889,
+                0.0796875,
+                0.06388888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1004613.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(144,398)",
+            "(176,437)",
+            "(143,400)",
+            "(175,436)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.162109375,
+                0.421875,
+                0.041015625,
+                0.017578125
+            ]
+        ]
+    },
+    {
+        "image": "img1004803.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(818,85)",
+            "(849,123)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8349609375,
+                0.1005859375,
+                0.033203125,
+                0.021484375
+            ]
+        ]
+    },
+    {
+        "image": "img1004856.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(314,305)",
+            "(486,435)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4125,
+                0.3770833333333333,
+                0.171875,
+                0.1375
+            ]
+        ]
+    },
+    {
+        "image": "img1004857.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(426,363)",
+            "(472,413)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.469921875,
+                0.41041666666666665,
+                0.08046875,
+                0.05416666666666667
+            ]
+        ]
+    },
+    {
+        "image": "img1004858.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(476,506)",
+            "(513,542)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.48583984375,
+                0.51611328125,
+                0.0458984375,
+                0.0166015625
+            ]
+        ]
+    },
+    {
+        "image": "img1004868.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(114,236)",
+            "(199,268)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.15234375,
+                0.251953125,
+                0.064453125,
+                0.013671875
+            ]
+        ]
+    },
+    {
+        "image": "img1004869.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(287,246)",
+            "(338,317)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.31796875,
+                0.2777777777777778,
+                0.04375,
+                0.05277777777777778
+            ]
+        ]
+    },
+    {
+        "image": "img1004870.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(437,374)",
+            "(473,423)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4578125,
+                0.39652777777777776,
+                0.0265625,
+                0.02638888888888889
+            ]
+        ]
+    },
+    {
+        "image": "img1004871.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(529,436)",
+            "(568,506)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.54140625,
+                0.4618055555555556,
+                0.0578125,
+                0.06527777777777778
+            ]
+        ]
+    },
+    {
+        "image": "img1005961.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.71015625,
+                0.5189814814814815,
+                0.025520833333333333,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1005963.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(667,468)",
+            "(719,520)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6888020833333334,
+                0.4787037037037037,
+                0.0296875,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1005991.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.47604166666666664,
+                0.7773148148148148,
+                0.03854166666666667,
+                0.03425925925925926
+            ]
+        ]
+    },
+    {
+        "image": "img1005995.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.45364583333333336,
+                0.6546296296296297,
+                0.03958333333333333,
+                0.02962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1005997.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5661458333333333,
+                0.700462962962963,
+                0.030208333333333334,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1006038.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.62734375,
+                0.7097222222222223,
+                0.025520833333333333,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1006046.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(596,563)",
+            "(671,620)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.621875,
+                0.5847222222222223,
+                0.053125,
+                0.04537037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1006047.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.671875,
+                0.6435185185185185,
+                0.03958333333333333,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1006048.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.48098958333333336,
+                0.6805555555555556,
+                0.03802083333333333,
+                0.03148148148148148
+            ]
+        ]
+    },
+    {
+        "image": "img1006131.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4627604166666667,
+                0.649537037037037,
+                0.0328125,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1006133.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2875,
+                0.638425925925926,
+                0.03333333333333333,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1006137.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5239583333333333,
+                0.7486111111111111,
+                0.019791666666666666,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1006226.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4953125,
+                0.5236111111111111,
+                0.035416666666666666,
+                0.032407407407407406
+            ]
+        ]
+    },
+    {
+        "image": "img1006227.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4283854166666667,
+                0.5731481481481482,
+                0.04010416666666667,
+                0.02962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1006247.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6033854166666667,
+                0.662962962962963,
+                0.03177083333333333,
+                0.025925925925925925
+            ]
+        ]
+    },
+    {
+        "image": "img1006248.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5901041666666667,
+                0.4009259259259259,
+                0.03229166666666667,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1006755.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(486,482)",
+            "(512,518)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4940104166666667,
+                0.4981481481481482,
+                0.022395833333333334,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1006756.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(400,432)",
+            "(428,467)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.41354166666666664,
+                0.4476851851851852,
+                0.025,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1006757.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(407,493)",
+            "(439,533)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4205729166666667,
+                0.5138888888888888,
+                0.030729166666666665,
+                0.03333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1007020.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3203125,
+                0.475,
+                0.034375,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1007021.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(487,416)",
+            "(531,456)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.51015625,
+                0.44166666666666665,
+                0.03177083333333333,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1007022.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.28359375,
+                0.40046296296296297,
+                0.0359375,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1007023.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.31276041666666665,
+                0.3814814814814815,
+                0.030729166666666665,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1007024.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.46171875,
+                0.5041666666666667,
+                0.021354166666666667,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1007025.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4265625,
+                0.5287037037037037,
+                0.022916666666666665,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1007026.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.62109375,
+                0.49722222222222223,
+                0.0359375,
+                0.027777777777777776
+            ]
+        ]
+    },
+    {
+        "image": "img1007027.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.32317708333333334,
+                0.4287037037037037,
+                0.028645833333333332,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1007028.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4947916666666667,
+                0.37824074074074077,
+                0.028125,
+                0.026851851851851852
+            ]
+        ]
+    },
+    {
+        "image": "img1007029.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4083333333333333,
+                0.3925925925925926,
+                0.028125,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1007030.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(633,346)",
+            "(727,434)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6799479166666667,
+                0.3888888888888889,
+                0.030729166666666665,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1007279.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(648,420)",
+            "(681,462)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6716145833333333,
+                0.43842592592592594,
+                0.024479166666666666,
+                0.026851851851851852
+            ]
+        ]
+    },
+    {
+        "image": "img1007280.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(283,474)",
+            "(312,511)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3033854166666667,
+                0.4912037037037037,
+                0.028645833333333332,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1007281.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(383,269)",
+            "(427,330)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.40677083333333336,
+                0.30185185185185187,
+                0.051041666666666666,
+                0.06111111111111111
+            ]
+        ]
+    },
+    {
+        "image": "img1007282.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(649,562)",
+            "(698,618)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6778645833333333,
+                0.586574074074074,
+                0.059895833333333336,
+                0.03981481481481482
+            ]
+        ]
+    },
+    {
+        "image": "img1007283.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8520833333333333,
+                0.7212962962962963,
+                0.058333333333333334,
+                0.037037037037037035
+            ]
+        ]
+    },
+    {
+        "image": "img1007284.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(535,488)",
+            "(600,556)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5645833333333333,
+                0.5180555555555556,
+                0.06770833333333333,
+                0.05092592592592592
+            ]
+        ]
+    },
+    {
+        "image": "img1007285.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2265625,
+                0.6504629629629629,
+                0.07604166666666666,
+                0.062037037037037036
+            ]
+        ]
+    },
+    {
+        "image": "img1007286.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(618,747)",
+            "(693,801)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6513020833333333,
+                0.7851851851851852,
+                0.06510416666666667,
+                0.04814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1007287.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(737,399)",
+            "(795,453)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7713541666666667,
+                0.42592592592592593,
+                0.058333333333333334,
+                0.044444444444444446
+            ]
+        ]
+    },
+    {
+        "image": "img1007288.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(87,432)",
+            "(153,475)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.12005208333333334,
+                0.449537037037037,
+                0.05364583333333333,
+                0.03981481481481482
+            ]
+        ]
+    },
+    {
+        "image": "img1007289.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(220,133)",
+            "(261,195)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2421875,
+                0.15555555555555556,
+                0.03958333333333333,
+                0.05
+            ]
+        ]
+    },
+    {
+        "image": "img1007290.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(657,242)",
+            "(703,282)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.68515625,
+                0.2601851851851852,
+                0.0390625,
+                0.03148148148148148
+            ]
+        ]
+    },
+    {
+        "image": "img1007291.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6763020833333333,
+                0.48703703703703705,
+                0.04010416666666667,
+                0.025925925925925925
+            ]
+        ]
+    },
+    {
+        "image": "img1007292.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7486979166666666,
+                0.5699074074074074,
+                0.043229166666666666,
+                0.030555555555555555
+            ]
+        ]
+    },
+    {
+        "image": "img1007293.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(598,405)",
+            "(641,448)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.621875,
+                0.425,
+                0.040625,
+                0.03333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1007294.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(597,357)",
+            "(638,399)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.61484375,
+                0.3773148148148148,
+                0.03802083333333333,
+                0.026851851851851852
+            ]
+        ]
+    },
+    {
+        "image": "img1007295.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(532,273)",
+            "(578,317)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5575520833333333,
+                0.2935185185185185,
+                0.043229166666666666,
+                0.037037037037037035
+            ]
+        ]
+    },
+    {
+        "image": "img1007296.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(647,223)",
+            "(697,267)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6794270833333333,
+                0.24259259259259258,
+                0.034895833333333334,
+                0.03148148148148148
+            ]
+        ]
+    },
+    {
+        "image": "img1007458.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(417,213)",
+            "(444,249)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.42239583333333336,
+                0.22962962962962963,
+                0.014583333333333334,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1007459.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(508,124)",
+            "(537,162)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5091145833333334,
+                0.1375,
+                0.016145833333333335,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1007460.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(785,386)",
+            "(866,462)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8328125,
+                0.4300925925925926,
+                0.030208333333333334,
+                0.030555555555555555
+            ]
+        ]
+    },
+    {
+        "image": "img1007461.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(887,338)",
+            "(933,413)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.9059895833333333,
+                0.3976851851851852,
+                0.034895833333333334,
+                0.030555555555555555
+            ]
+        ]
+    },
+    {
+        "image": "img1007462.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(425,646)",
+            "(451,682)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.43359375,
+                0.6601851851851852,
+                0.025520833333333333,
+                0.037037037037037035
+            ]
+        ]
+    },
+    {
+        "image": "img1007463.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(739,535)",
+            "(770,568)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7739583333333333,
+                0.5546296296296296,
+                0.03125,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1007464.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(208,415)",
+            "(236,449)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.22421875,
+                0.43472222222222223,
+                0.0296875,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1007535.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(546,323)",
+            "(572,364)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5356770833333333,
+                0.3449074074074074,
+                0.0140625,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1007536.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(738,386)",
+            "(769,427)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.76875,
+                0.39166666666666666,
+                0.013541666666666667,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1007537.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(704,335)",
+            "(733,376)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.70546875,
+                0.3486111111111111,
+                0.015104166666666667,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1007538.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5416666666666666,
+                0.5648148148148148,
+                0.013541666666666667,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1007539.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(676,367)",
+            "(701,401)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.68359375,
+                0.3800925925925926,
+                0.0171875,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1007540.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.60078125,
+                0.44027777777777777,
+                0.016145833333333335,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1007541.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.16223958333333333,
+                0.32407407407407407,
+                0.0234375,
+                0.027777777777777776
+            ]
+        ]
+    },
+    {
+        "image": "img1007598.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(299,138)",
+            "(327,174)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.30885416666666665,
+                0.14953703703703702,
+                0.019791666666666666,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1007599.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(688,133)",
+            "(717,169)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.709375,
+                0.14907407407407408,
+                0.022916666666666665,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1007600.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(330,112)",
+            "(360,145)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3453125,
+                0.1527777777777778,
+                0.022916666666666665,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1007601.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(419,255)",
+            "(448,291)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.43333333333333335,
+                0.27175925925925926,
+                0.022916666666666665,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1007602.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(359,213)",
+            "(389,249)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.37265625,
+                0.23333333333333334,
+                0.027604166666666666,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1007603.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(551,204)",
+            "(582,241)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.56484375,
+                0.22268518518518518,
+                0.0234375,
+                0.026851851851851852
+            ]
+        ]
+    },
+    {
+        "image": "img1007604.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5122395833333333,
+                0.5263888888888889,
+                0.027604166666666666,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1007675.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(459,213)",
+            "(514,279)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.47369791666666666,
+                0.25046296296296294,
+                0.021354166666666667,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1007676.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6317708333333333,
+                0.225,
+                0.052083333333333336,
+                0.05185185185185185
+            ]
+        ]
+    },
+    {
+        "image": "img1007677.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5598958333333334,
+                0.32083333333333336,
+                0.034375,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1007678.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(107,137)",
+            "(137,178)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.11119791666666666,
+                0.1574074074074074,
+                0.022395833333333334,
+                0.03333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1007679.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(553,216)",
+            "(581,252)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5640625,
+                0.24212962962962964,
+                0.022916666666666665,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1007680.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(319,243)",
+            "(346,276)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3341145833333333,
+                0.26481481481481484,
+                0.025520833333333333,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1007681.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(507,183)",
+            "(533,218)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.50625,
+                0.19675925925925927,
+                0.023958333333333335,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009155.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.41510416666666666,
+                0.6796296296296296,
+                0.020833333333333332,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1009156.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.70234375,
+                0.5995370370370371,
+                0.021354166666666667,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1009157.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(457,594)",
+            "(498,633)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.47317708333333336,
+                0.6129629629629629,
+                0.022395833333333334,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1009158.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7916666666666666,
+                0.6185185185185185,
+                0.025,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1009289.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.11744791666666667,
+                0.5962962962962963,
+                0.021354166666666667,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1009327.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(236,254)",
+            "(265,295)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2565104166666667,
+                0.2722222222222222,
+                0.030729166666666665,
+                0.025925925925925925
+            ]
+        ]
+    },
+    {
+        "image": "img1009328.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(147,357)",
+            "(174,391)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.15598958333333332,
+                0.37083333333333335,
+                0.0171875,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009329.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(153,326)",
+            "(181,367)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.18567708333333333,
+                0.34675925925925927,
+                0.021354166666666667,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009330.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(356,301)",
+            "(382,335)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3697916666666667,
+                0.3162037037037037,
+                0.016666666666666666,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009331.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(147,346)",
+            "(181,380)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.16197916666666667,
+                0.3712962962962963,
+                0.017708333333333333,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1009332.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(114,346)",
+            "(144,387)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.13203125,
+                0.3662037037037037,
+                0.024479166666666666,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1009333.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(742,543)",
+            "(793,586)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.77109375,
+                0.5643518518518519,
+                0.04010416666666667,
+                0.028703703703703703
+            ]
+        ]
+    },
+    {
+        "image": "img1009334.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(571,483)",
+            "(601,529)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.58515625,
+                0.5023148148148148,
+                0.015104166666666667,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009335.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(446,505)",
+            "(476,542)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.45234375,
+                0.5217592592592593,
+                0.018229166666666668,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009336.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(646,508)",
+            "(680,556)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6708333333333333,
+                0.5300925925925926,
+                0.017708333333333333,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009337.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.39739583333333334,
+                0.7703703703703704,
+                0.011458333333333333,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1009391.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6484375,
+                0.4532407407407407,
+                0.017708333333333333,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009392.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(836,153)",
+            "(873,203)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8546875,
+                0.17175925925925925,
+                0.029166666666666667,
+                0.032407407407407406
+            ]
+        ]
+    },
+    {
+        "image": "img1009393.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(824,322)",
+            "(853,367)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8359375,
+                0.3314814814814815,
+                0.017708333333333333,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1009394.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(624,367)",
+            "(660,403)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6455729166666667,
+                0.3819444444444444,
+                0.022395833333333334,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009400.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(810,235)",
+            "(842,273)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.82265625,
+                0.25555555555555554,
+                0.022395833333333334,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009401.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(610,332)",
+            "(636,365)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6229166666666667,
+                0.34675925925925927,
+                0.016666666666666666,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1009402.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6130208333333333,
+                0.44583333333333336,
+                0.01875,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009403.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(624,415)",
+            "(660,453)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.640625,
+                0.4166666666666667,
+                0.017708333333333333,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1009419.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.15026041666666667,
+                0.8125,
+                0.0296875,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009420.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(209,253)",
+            "(239,288)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.22682291666666668,
+                0.2712962962962963,
+                0.022395833333333334,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009495.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(508,155)",
+            "(537,196)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5184895833333333,
+                0.1675925925925926,
+                0.011979166666666667,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1009496.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(447,66)",
+            "(472,111)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.45026041666666666,
+                0.07824074074074074,
+                0.011979166666666667,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009497.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(573,372)",
+            "(593,406)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5755208333333334,
+                0.38472222222222224,
+                0.011458333333333333,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1009498.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(308,266)",
+            "(336,309)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.32265625,
+                0.2875,
+                0.0140625,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009499.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(326,379)",
+            "(349,414)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.33645833333333336,
+                0.3921296296296296,
+                0.010416666666666666,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1009500.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(507,446)",
+            "(536,482)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5106770833333333,
+                0.44351851851851853,
+                0.008854166666666666,
+                0.005555555555555556
+            ]
+        ]
+    },
+    {
+        "image": "img1009501.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(453,294)",
+            "(479,330)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4630208333333333,
+                0.3365740740740741,
+                0.008333333333333333,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1009502.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(294,419)",
+            "(326,457)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3015625,
+                0.42962962962962964,
+                0.014583333333333334,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1009503.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(176,356)",
+            "(202,392)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.18619791666666666,
+                0.3731481481481482,
+                0.015104166666666667,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1009516.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(766,482)",
+            "(798,518)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.79765625,
+                0.49953703703703706,
+                0.016145833333333335,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1009517.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(684,408)",
+            "(712,445)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6984375,
+                0.43287037037037035,
+                0.013541666666666667,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1009518.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(676,568)",
+            "(704,603)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6955729166666667,
+                0.5856481481481481,
+                0.016145833333333335,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1009519.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(708,545)",
+            "(734,582)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7244791666666667,
+                0.562962962962963,
+                0.015625,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1009520.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(363,447)",
+            "(388,483)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.37604166666666666,
+                0.4638888888888889,
+                0.016666666666666666,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1009521.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(824,362)",
+            "(848,401)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8330729166666667,
+                0.38055555555555554,
+                0.016145833333333335,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1009522.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(656,379)",
+            "(681,414)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6684895833333333,
+                0.3990740740740741,
+                0.0140625,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1009524.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(812,219)",
+            "(839,258)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.83515625,
+                0.23287037037037037,
+                0.018229166666666668,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009525.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(879,498)",
+            "(903,533)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8955729166666667,
+                0.5148148148148148,
+                0.019270833333333334,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1009526.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(574,638)",
+            "(604,676)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5763020833333333,
+                0.6574074074074074,
+                0.0140625,
+                0.009259259259259259
+            ]
+        ]
+    },
+    {
+        "image": "img1009527.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5104166666666666,
+                0.6967592592592593,
+                0.0125,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1009528.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(606,479)",
+            "(636,522)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6091145833333333,
+                0.500462962962963,
+                0.011979166666666667,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009529.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5684895833333333,
+                0.6796296296296296,
+                0.011979166666666667,
+                0.009259259259259259
+            ]
+        ]
+    },
+    {
+        "image": "img1009544.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6369791666666667,
+                0.17777777777777778,
+                0.0125,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1009545.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(671,1)",
+            "(712,47)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.71953125,
+                0.022222222222222223,
+                0.015104166666666667,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1009546.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(533,439)",
+            "(557,476)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5463541666666667,
+                0.45787037037037037,
+                0.008333333333333333,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1009547.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.44921875,
+                0.5375,
+                0.0078125,
+                0.006481481481481481
+            ]
+        ]
+    },
+    {
+        "image": "img1009579.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(383,260)",
+            "(414,303)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.39895833333333336,
+                0.2833333333333333,
+                0.01875,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1009580.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(753,13)",
+            "(808,79)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7791666666666667,
+                0.03935185185185185,
+                0.025,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1009584.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(508,286)",
+            "(537,325)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5135416666666667,
+                0.29768518518518516,
+                0.01875,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009585.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(518,257)",
+            "(545,298)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5325520833333334,
+                0.2814814814814815,
+                0.0171875,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1009586.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(642,355)",
+            "(671,386)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.66015625,
+                0.36944444444444446,
+                0.013020833333333334,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1009587.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(447,380)",
+            "(474,422)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.46328125,
+                0.3939814814814815,
+                0.0109375,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1009588.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(633,324)",
+            "(660,358)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6471354166666666,
+                0.3384259259259259,
+                0.016145833333333335,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009589.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6541666666666667,
+                0.4564814814814815,
+                0.0125,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1009591.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(871,279)",
+            "(919,337)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.89140625,
+                0.30648148148148147,
+                0.016145833333333335,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1009687.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(613,576)",
+            "(663,628)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.65859375,
+                0.5986111111111111,
+                0.016145833333333335,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1009688.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(533,562)",
+            "(609,670)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.578125,
+                0.5949074074074074,
+                0.015625,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1009689.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(482,457)",
+            "(511,500)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4947916666666667,
+                0.47453703703703703,
+                0.015625,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009690.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7166666666666667,
+                0.5037037037037037,
+                0.016666666666666666,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1009693.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(630,483)",
+            "(661,522)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6484375,
+                0.5023148148148148,
+                0.017708333333333333,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1009694.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(481,524)",
+            "(512,562)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.48880208333333336,
+                0.5425925925925926,
+                0.015104166666666667,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1009695.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(582,486)",
+            "(610,520)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5966145833333333,
+                0.5,
+                0.018229166666666668,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1009696.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5010416666666667,
+                0.6666666666666666,
+                0.01875,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1009697.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.49661458333333336,
+                0.7662037037037037,
+                0.016145833333333335,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1009768.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(433,439)",
+            "(479,483)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4473958333333333,
+                0.4666666666666667,
+                0.020833333333333332,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1009769.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(427,482)",
+            "(454,520)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4421875,
+                0.500462962962963,
+                0.020833333333333332,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1009770.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(232,269)",
+            "(266,314)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.25338541666666664,
+                0.29398148148148145,
+                0.0234375,
+                0.032407407407407406
+            ]
+        ]
+    },
+    {
+        "image": "img1009771.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(638,427)",
+            "(669,463)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6502604166666667,
+                0.45185185185185184,
+                0.0203125,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1009772.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(276,209)",
+            "(305,247)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.30625,
+                0.22777777777777777,
+                0.022916666666666665,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009773.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(629,342)",
+            "(663,378)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.63828125,
+                0.35138888888888886,
+                0.019270833333333334,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1009774.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(483,356)",
+            "(511,394)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.49635416666666665,
+                0.3731481481481482,
+                0.019791666666666666,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1009775.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(347,353)",
+            "(378,392)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3606770833333333,
+                0.3699074074074074,
+                0.0234375,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1009776.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.08776041666666666,
+                0.36712962962962964,
+                0.030729166666666665,
+                0.03611111111111111
+            ]
+        ]
+    },
+    {
+        "image": "img1009778.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(393,562)",
+            "(431,606)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.43020833333333336,
+                0.5800925925925926,
+                0.025,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1009780.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(254,244)",
+            "(284,282)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.26614583333333336,
+                0.25972222222222224,
+                0.027083333333333334,
+                0.026851851851851852
+            ]
+        ]
+    },
+    {
+        "image": "img1009781.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(359,170)",
+            "(389,211)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.37005208333333334,
+                0.18518518518518517,
+                0.0234375,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1009817.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(583,375)",
+            "(616,417)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5966145833333333,
+                0.3976851851851852,
+                0.024479166666666666,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1009818.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(705,376)",
+            "(736,415)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7244791666666667,
+                0.4,
+                0.016666666666666666,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1009819.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(768,550)",
+            "(801,584)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.78203125,
+                0.5680555555555555,
+                0.011979166666666667,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1009820.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(357,154)",
+            "(383,195)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.37057291666666664,
+                0.17546296296296296,
+                0.021354166666666667,
+                0.026851851851851852
+            ]
+        ]
+    },
+    {
+        "image": "img1009821.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(266,47)",
+            "(297,102)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2833333333333333,
+                0.06851851851851852,
+                0.026041666666666668,
+                0.03518518518518519
+            ]
+        ]
+    },
+    {
+        "image": "img1009822.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(460,456)",
+            "(484,490)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.46927083333333336,
+                0.47129629629629627,
+                0.0125,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1009825.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(318,314)",
+            "(349,356)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3299479166666667,
+                0.33055555555555555,
+                0.0140625,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1009827.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(422,358)",
+            "(446,393)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.43463541666666666,
+                0.3907407407407407,
+                0.0109375,
+                0.007407407407407408
+            ]
+        ]
+    },
+    {
+        "image": "img1009828.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(800,360)",
+            "(824,389)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8111979166666666,
+                0.37453703703703706,
+                0.016145833333333335,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1009829.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(629,516)",
+            "(663,556)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.64140625,
+                0.5319444444444444,
+                0.024479166666666666,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1009923.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(323,257)",
+            "(357,305)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3411458333333333,
+                0.27870370370370373,
+                0.028125,
+                0.027777777777777776
+            ]
+        ]
+    },
+    {
+        "image": "img1009924.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(352,295)",
+            "(379,335)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3653645833333333,
+                0.3175925925925926,
+                0.028645833333333332,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009925.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(297,420)",
+            "(331,478)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.31614583333333335,
+                0.4439814814814815,
+                0.025,
+                0.032407407407407406
+            ]
+        ]
+    },
+    {
+        "image": "img1009926.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(259,414)",
+            "(288,454)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.26927083333333335,
+                0.4356481481481482,
+                0.026041666666666668,
+                0.030555555555555555
+            ]
+        ]
+    },
+    {
+        "image": "img1009927.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(392,93)",
+            "(422,134)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4075520833333333,
+                0.11898148148148148,
+                0.021354166666666667,
+                0.026851851851851852
+            ]
+        ]
+    },
+    {
+        "image": "img1009935.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(458,78)",
+            "(510,141)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.48723958333333334,
+                0.10833333333333334,
+                0.049479166666666664,
+                0.05185185185185185
+            ]
+        ]
+    },
+    {
+        "image": "img1009992.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(658,286)",
+            "(683,323)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.678125,
+                0.3060185185185185,
+                0.016666666666666666,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009993.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(657,355)",
+            "(682,388)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6697916666666667,
+                0.3768518518518518,
+                0.013541666666666667,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1009994.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(581,226)",
+            "(609,257)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5927083333333333,
+                0.2449074074074074,
+                0.015625,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1009995.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(568,246)",
+            "(596,283)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.57421875,
+                0.262037037037037,
+                0.018229166666666668,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1009996.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(536,404)",
+            "(563,441)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5419270833333333,
+                0.41435185185185186,
+                0.018229166666666668,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1009997.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(577,474)",
+            "(601,507)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5666666666666667,
+                0.4828703703703704,
+                0.0125,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010027.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7572916666666667,
+                0.3888888888888889,
+                0.027083333333333334,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1010028.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.61328125,
+                0.17962962962962964,
+                0.022395833333333334,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1010036.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(568,74)",
+            "(602,111)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.58203125,
+                0.07824074074074074,
+                0.021354166666666667,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1010037.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(653,773)",
+            "(723,852)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.28541666666666665,
+                0.1287037037037037,
+                0.05520833333333333,
+                0.05185185185185185
+            ]
+        ]
+    },
+    {
+        "image": "img1010074.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(565,650)",
+            "(603,685)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.57890625,
+                0.6611111111111111,
+                0.030729166666666665,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1010075.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(480,532)",
+            "(510,568)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.48932291666666666,
+                0.5476851851851852,
+                0.0171875,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1010076.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(480,73)",
+            "(548,152)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5158854166666667,
+                0.1125,
+                0.0609375,
+                0.06574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010077.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(295,738)",
+            "(333,775)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.29765625,
+                0.6986111111111111,
+                0.0171875,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1010078.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(703,554)",
+            "(729,586)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7153645833333333,
+                0.5680555555555555,
+                0.015104166666666667,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1010079.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(507,543)",
+            "(538,580)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5125,
+                0.5597222222222222,
+                0.01875,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010080.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5515625,
+                0.6449074074074074,
+                0.011458333333333333,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1010081.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(544,691)",
+            "(572,726)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5427083333333333,
+                0.7018518518518518,
+                0.0125,
+                0.007407407407407408
+            ]
+        ]
+    },
+    {
+        "image": "img1010082.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(959,356)",
+            "(986,390)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.97578125,
+                0.37824074074074077,
+                0.0265625,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1010083.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(737,278)",
+            "(764,314)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7596354166666667,
+                0.30462962962962964,
+                0.0265625,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1010120.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3463541666666667,
+                0.5712962962962963,
+                0.0125,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1010121.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(424,545)",
+            "(450,578)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.44036458333333334,
+                0.5550925925925926,
+                0.011979166666666667,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010122.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(238,358)",
+            "(267,397)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.25677083333333334,
+                0.3768518518518518,
+                0.020833333333333332,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1010123.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(488,243)",
+            "(517,286)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5015625,
+                0.2638888888888889,
+                0.019791666666666666,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010124.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(605,636)",
+            "(636,672)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6109375,
+                0.6509259259259259,
+                0.014583333333333334,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1010125.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.47265625,
+                0.6421296296296296,
+                0.0109375,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1010126.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(512,639)",
+            "(539,676)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5223958333333333,
+                0.6578703703703703,
+                0.011458333333333333,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010127.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3966145833333333,
+                0.6648148148148149,
+                0.008854166666666666,
+                0.007407407407407408
+            ]
+        ]
+    },
+    {
+        "image": "img1010128.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(549,533)",
+            "(576,572)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5502604166666667,
+                0.5550925925925926,
+                0.015104166666666667,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1010129.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(364,604)",
+            "(388,640)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.37864583333333335,
+                0.6097222222222223,
+                0.01875,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1010130.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(446,597)",
+            "(478,638)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.45364583333333336,
+                0.6199074074074075,
+                0.023958333333333335,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1010131.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5299479166666666,
+                0.7240740740740741,
+                0.008854166666666666,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1010132.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(239,605)",
+            "(269,646)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2598958333333333,
+                0.6185185185185185,
+                0.015625,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010133.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(418,597)",
+            "(447,634)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.41744791666666664,
+                0.6152777777777778,
+                0.015104166666666667,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1010134.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.15130208333333334,
+                0.774074074074074,
+                0.0234375,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1010135.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.22734375,
+                0.7782407407407408,
+                0.018229166666666668,
+                0.006481481481481481
+            ]
+        ]
+    },
+    {
+        "image": "img1010136.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(676,733)",
+            "(706,767)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7083333333333334,
+                0.7282407407407407,
+                0.015625,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010137.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(195,472)",
+            "(231,516)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.20989583333333334,
+                0.49675925925925923,
+                0.034375,
+                0.028703703703703703
+            ]
+        ]
+    },
+    {
+        "image": "img1010138.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4265625,
+                0.8587962962962963,
+                0.03125,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1010167.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(231,492)",
+            "(266,532)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.24583333333333332,
+                0.5212962962962963,
+                0.015625,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1010168.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.022135416666666668,
+                0.5365740740740741,
+                0.015104166666666667,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010169.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(307,568)",
+            "(338,618)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.10286458333333333,
+                0.5194444444444445,
+                0.013020833333333334,
+                0.009259259259259259
+            ]
+        ]
+    },
+    {
+        "image": "img1010170.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(648,199)",
+            "(686,243)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6783854166666666,
+                0.22083333333333333,
+                0.0265625,
+                0.03425925925925926
+            ]
+        ]
+    },
+    {
+        "image": "img1010171.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(771,153)",
+            "(805,207)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.79140625,
+                0.1824074074074074,
+                0.030729166666666665,
+                0.037037037037037035
+            ]
+        ]
+    },
+    {
+        "image": "img1010172.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(391,446)",
+            "(419,476)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.40546875,
+                0.45046296296296295,
+                0.015104166666666667,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010173.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(387,476)",
+            "(412,511)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3796875,
+                0.48518518518518516,
+                0.0125,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010174.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.20677083333333332,
+                0.44583333333333336,
+                0.011458333333333333,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010175.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(231,412)",
+            "(275,468)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.26614583333333336,
+                0.4583333333333333,
+                0.015625,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010176.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(357,423)",
+            "(417,473)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.384375,
+                0.4597222222222222,
+                0.013541666666666667,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010177.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(342,396)",
+            "(388,438)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.35625,
+                0.4263888888888889,
+                0.01875,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010178.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(307,563)",
+            "(337,613)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.34739583333333335,
+                0.9078703703703703,
+                0.021875,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010209.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2203125,
+                0.3648148148148148,
+                0.029166666666666667,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010210.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.21067708333333332,
+                0.6754629629629629,
+                0.0296875,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010211.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.42239583333333336,
+                0.1648148148148148,
+                0.022916666666666665,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1010212.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3424479166666667,
+                0.3675925925925926,
+                0.0265625,
+                0.03148148148148148
+            ]
+        ]
+    },
+    {
+        "image": "img1010213.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.15,
+                0.3990740740740741,
+                0.022916666666666665,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1010217.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(499,325)",
+            "(544,378)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5119791666666667,
+                0.3541666666666667,
+                0.017708333333333333,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1010244.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(827,326)",
+            "(853,363)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8375,
+                0.34629629629629627,
+                0.0125,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1010245.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(583,367)",
+            "(610,410)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5947916666666667,
+                0.3819444444444444,
+                0.011458333333333333,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010246.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(734,393)",
+            "(758,424)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.72421875,
+                0.4185185185185185,
+                0.013020833333333334,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1010247.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(827,383)",
+            "(853,421)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8395833333333333,
+                0.40324074074074073,
+                0.015625,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1010373.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(866,609)",
+            "(926,657)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.9078125,
+                0.6300925925925925,
+                0.025,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010374.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.37838541666666664,
+                0.6541666666666667,
+                0.0265625,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010375.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.04088541666666667,
+                0.6143518518518518,
+                0.028645833333333332,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1010376.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.44375,
+                0.6694444444444444,
+                0.017708333333333333,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010377.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6169270833333333,
+                0.6537037037037037,
+                0.0171875,
+                0.009259259259259259
+            ]
+        ]
+    },
+    {
+        "image": "img1010378.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(669,398)",
+            "(703,430)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.69375,
+                0.4115740740740741,
+                0.030208333333333334,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010379.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(706,566)",
+            "(768,608)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7466145833333333,
+                0.5847222222222223,
+                0.0453125,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1010380.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(449,578)",
+            "(479,617)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4552083333333333,
+                0.5935185185185186,
+                0.022916666666666665,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1010381.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(679,564)",
+            "(705,593)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6919270833333333,
+                0.5726851851851852,
+                0.0203125,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010382.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(577,468)",
+            "(609,508)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5903645833333333,
+                0.48055555555555557,
+                0.0234375,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1010383.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(648,550)",
+            "(701,588)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6869791666666667,
+                0.5657407407407408,
+                0.029166666666666667,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010384.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(767,628)",
+            "(805,668)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.79765625,
+                0.6449074074074074,
+                0.027604166666666666,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1010385.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6161458333333333,
+                0.6824074074074075,
+                0.021875,
+                0.009259259259259259
+            ]
+        ]
+    },
+    {
+        "image": "img1010386.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(553,484)",
+            "(580,517)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5658854166666667,
+                0.5009259259259259,
+                0.019270833333333334,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010387.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(309,450)",
+            "(345,495)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3263020833333333,
+                0.46805555555555556,
+                0.021354166666666667,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010388.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(458,490)",
+            "(483,520)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.471875,
+                0.5050925925925925,
+                0.01875,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010389.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(180,420)",
+            "(208,454)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.1953125,
+                0.45601851851851855,
+                0.020833333333333332,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010390.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(738,663)",
+            "(767,696)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7739583333333333,
+                0.6777777777777778,
+                0.020833333333333332,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1010417.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.37265625,
+                0.6185185185185185,
+                0.021354166666666667,
+                0.012962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010418.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7328125,
+                0.6708333333333333,
+                0.022916666666666665,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010419.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.46796875,
+                0.6532407407407408,
+                0.018229166666666668,
+                0.010185185185185186
+            ]
+        ]
+    },
+    {
+        "image": "img1010420.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(452,300)",
+            "(482,342)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.46640625,
+                0.3282407407407407,
+                0.0140625,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010440.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(694,179)",
+            "(789,266)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7546875,
+                0.22314814814814815,
+                0.022916666666666665,
+                0.022222222222222223
+            ]
+        ]
+    },
+    {
+        "image": "img1010441.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(645,143)",
+            "(735,249)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6984375,
+                0.19305555555555556,
+                0.023958333333333335,
+                0.03796296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1010442.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(664,283)",
+            "(727,363)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6919270833333333,
+                0.3226851851851852,
+                0.0265625,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1010443.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(631,255)",
+            "(701,335)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.67734375,
+                0.2916666666666667,
+                0.0296875,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010444.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5708333333333333,
+                0.274537037037037,
+                0.03333333333333333,
+                0.03981481481481482
+            ]
+        ]
+    },
+    {
+        "image": "img1010445.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7049479166666667,
+                0.4449074074074074,
+                0.0203125,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010446.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5713541666666667,
+                0.1087962962962963,
+                0.041666666666666664,
+                0.05277777777777778
+            ]
+        ]
+    },
+    {
+        "image": "img1010461.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5317708333333333,
+                0.4351851851851852,
+                0.027083333333333334,
+                0.02962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010462.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7361979166666667,
+                0.43472222222222223,
+                0.021354166666666667,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1010463.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6515625,
+                0.2814814814814815,
+                0.027083333333333334,
+                0.03333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1010464.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7177083333333333,
+                0.4583333333333333,
+                0.022916666666666665,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1010465.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7291666666666666,
+                0.4078703703703704,
+                0.016666666666666666,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1010466.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6002604166666666,
+                0.11018518518518519,
+                0.033854166666666664,
+                0.044444444444444446
+            ]
+        ]
+    },
+    {
+        "image": "img1010467.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5458333333333333,
+                0.5287037037037037,
+                0.034375,
+                0.027777777777777776
+            ]
+        ]
+    },
+    {
+        "image": "img1010482.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(761,244)",
+            "(802,373)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5096354166666667,
+                0.5615740740740741,
+                0.0171875,
+                0.023148148148148147
+            ]
+        ]
+    },
+    {
+        "image": "img1010483.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(757,209)",
+            "(801,352)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.48125,
+                0.5708333333333333,
+                0.020833333333333332,
+                0.017592592592592594
+            ]
+        ]
+    },
+    {
+        "image": "img1010484.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5208333333333334,
+                0.3574074074074074,
+                0.0125,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1010485.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(438,61)",
+            "(476,111)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.45364583333333336,
+                0.06805555555555555,
+                0.036458333333333336,
+                0.041666666666666664
+            ]
+        ]
+    },
+    {
+        "image": "img1010486.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(518,785)",
+            "(576,875)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5109375,
+                0.2972222222222222,
+                0.013541666666666667,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010487.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.43463541666666666,
+                0.4078703703703704,
+                0.013020833333333334,
+                0.012037037037037037
+            ]
+        ]
+    },
+    {
+        "image": "img1010488.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(231,57)",
+            "(315,127)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.27630208333333334,
+                0.07083333333333333,
+                0.0359375,
+                0.032407407407407406
+            ]
+        ]
+    },
+    {
+        "image": "img1010489.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3692708333333333,
+                0.18611111111111112,
+                0.029166666666666667,
+                0.025925925925925925
+            ]
+        ]
+    },
+    {
+        "image": "img1010490.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(751,153)",
+            "(805,327)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5229166666666667,
+                0.26435185185185184,
+                0.019791666666666666,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1010517.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(729,154)",
+            "(759,199)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7484375,
+                0.17592592592592593,
+                0.020833333333333332,
+                0.025925925925925925
+            ]
+        ]
+    },
+    {
+        "image": "img1010518.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(101,374)",
+            "(141,419)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.1234375,
+                0.38935185185185184,
+                0.04583333333333333,
+                0.03425925925925926
+            ]
+        ]
+    },
+    {
+        "image": "img1010519.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(836,353)",
+            "(871,401)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.853125,
+                0.37175925925925923,
+                0.03125,
+                0.030555555555555555
+            ]
+        ]
+    },
+    {
+        "image": "img1010520.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(480,299)",
+            "(507,333)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4778645833333333,
+                0.3162037037037037,
+                0.016145833333333335,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010521.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(111,154)",
+            "(138,191)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.12239583333333333,
+                0.17685185185185184,
+                0.022916666666666665,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1010528.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(74,358)",
+            "(123,403)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.09661458333333334,
+                0.3768518518518518,
+                0.043229166666666666,
+                0.025925925925925925
+            ]
+        ]
+    },
+    {
+        "image": "img1010529.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.684375,
+                0.4810185185185185,
+                0.025,
+                0.021296296296296296
+            ]
+        ]
+    },
+    {
+        "image": "img1010538.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(588,216)",
+            "(628,257)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6111979166666667,
+                0.24074074074074073,
+                0.0234375,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1010539.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(466,289)",
+            "(519,347)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.47942708333333334,
+                0.3194444444444444,
+                0.016145833333333335,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1010540.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(398,468)",
+            "(453,530)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.42994791666666665,
+                0.5254629629629629,
+                0.0171875,
+                0.013888888888888888
+            ]
+        ]
+    },
+    {
+        "image": "img1010541.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(467,386)",
+            "(529,447)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4830729166666667,
+                0.4356481481481482,
+                0.011979166666666667,
+                0.008333333333333333
+            ]
+        ]
+    },
+    {
+        "image": "img1010542.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(613,199)",
+            "(646,243)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6325520833333333,
+                0.2351851851851852,
+                0.0203125,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1010543.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(616,237)",
+            "(644,278)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6317708333333333,
+                0.2574074074074074,
+                0.020833333333333332,
+                0.025925925925925925
+            ]
+        ]
+    },
+    {
+        "image": "img1010547.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(354,280)",
+            "(382,317)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.3651041666666667,
+                0.3037037037037037,
+                0.021875,
+                0.02962962962962963
+            ]
+        ]
+    },
+    {
+        "image": "img1010548.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(496,562)",
+            "(542,612)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.51171875,
+                0.5935185185185186,
+                0.016145833333333335,
+                0.018518518518518517
+            ]
+        ]
+    },
+    {
+        "image": "img1010549.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(543,373)",
+            "(603,443)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5768229166666666,
+                0.4074074074074074,
+                0.0140625,
+                0.011111111111111112
+            ]
+        ]
+    },
+    {
+        "image": "img1010557.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(505,478)",
+            "(539,514)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.5125,
+                0.4962962962962963,
+                0.017708333333333333,
+                0.014814814814814815
+            ]
+        ]
+    },
+    {
+        "image": "img1010558.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(613,283)",
+            "(640,322)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6278645833333333,
+                0.30185185185185187,
+                0.0140625,
+                0.016666666666666666
+            ]
+        ]
+    },
+    {
+        "image": "img1010559.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(456,207)",
+            "(482,246)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.4671875,
+                0.22962962962962963,
+                0.016666666666666666,
+                0.020370370370370372
+            ]
+        ]
+    },
+    {
+        "image": "img1010560.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.7432291666666667,
+                0.009722222222222222,
+                0.023958333333333335,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010561.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(613,289)",
+            "(642,326)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.63125,
+                0.31296296296296294,
+                0.026041666666666668,
+                0.024074074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010562.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(613,479)",
+            "(643,514)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.6302083333333334,
+                0.49583333333333335,
+                0.020833333333333332,
+                0.01574074074074074
+            ]
+        ]
+    },
+    {
+        "image": "img1010563.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(683,562)",
+            "(718,600)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.70703125,
+                0.5819444444444445,
+                0.024479166666666666,
+                0.019444444444444445
+            ]
+        ]
+    },
+    {
+        "image": "img1010564.jpg",
+        "width": 1024,
+        "height": 1024,
+        "bounding_box_prediction": [
+            "(839,361)",
+            "(880,401)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.8564453125,
+                0.38037109375,
+                0.046875,
+                0.0302734375
+            ]
+        ]
+    },
+    {
+        "image": "img1023952.jpg",
+        "width": 1280,
+        "height": 738,
+        "bounding_box_prediction": [
+            "(455,109)",
+            "(509,174)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.474625,
+                0.14878,
+                0.07625,
+                0.088889
+            ]
+        ]
+    },
+    {
+        "image": "img1057830.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.626823,
+                0.199537,
+                0.036979,
+                0.05463
+            ]
+        ]
+    },
+    {
+        "image": "img1057831.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.706771,
+                0.201852,
+                0.028125,
+                0.042593
+            ]
+        ]
+    },
+    {
+        "image": "img1057837.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(740,176)",
+            "(766,223)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.760417,
+                0.202315,
+                0.0375,
+                0.060185
+            ]
+        ]
+    },
+    {
+        "image": "img1057838.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(713,149)",
+            "(778,236)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.760417,
+                0.202315,
+                0.0375,
+                0.060185
+            ]
+        ]
+    },
+    {
+        "image": "img1057839.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(725,146)",
+            "(765,213)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.74974,
+                0.194907,
+                0.047396,
+                0.065741
+            ]
+        ]
+    },
+    {
+        "image": "img1057840.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(710,174)",
+            "(743,226)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.74974,
+                0.193056,
+                0.047396,
+                0.065741
+            ]
+        ]
+    },
+    {
+        "image": "img1057841.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(689,138)",
+            "(764,225)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.74974,
+                0.193056,
+                0.047396,
+                0.065741
+            ]
+        ]
+    },
+    {
+        "image": "img1058450.jpg",
+        "width": 4096,
+        "height": 2160,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.399902,
+                0.499306,
+                0.020508,
+                0.033796
+            ]
+        ]
+    },
+    {
+        "image": "img1058451.jpg",
+        "width": 4096,
+        "height": 2160,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.399902,
+                0.499306,
+                0.020508,
+                0.033796
+            ]
+        ]
+    },
+    {
+        "image": "img1058452.jpg",
+        "width": 4096,
+        "height": 2160,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.405884,
+                0.498148,
+                0.016357,
+                0.036111
+            ]
+        ]
+    },
+    {
+        "image": "img1058453.jpg",
+        "width": 4096,
+        "height": 2160,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.408203,
+                0.500463,
+                0.018555,
+                0.028704
+            ]
+        ]
+    },
+    {
+        "image": "img1058454.jpg",
+        "width": 4096,
+        "height": 2160,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.409424,
+                0.501389,
+                0.01709,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1058455.jpg",
+        "width": 4096,
+        "height": 2160,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.409912,
+                0.501852,
+                0.024414,
+                0.028704
+            ]
+        ]
+    },
+    {
+        "image": "img1058661.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(57,147)",
+            "(357,377)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.54375,
+                0.764815,
+                0.038542,
+                0.033333
+            ]
+        ]
+    },
+    {
+        "image": "img1058662.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(66,125)",
+            "(361,399)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.54349,
+                0.775,
+                0.040104,
+                0.038889
+            ]
+        ]
+    },
+    {
+        "image": "img1058663.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(47,127)",
+            "(337,373)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.505208,
+                0.774537,
+                0.038542,
+                0.034259
+            ]
+        ]
+    },
+    {
+        "image": "img1058664.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(10,101)",
+            "(361,366)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.458594,
+                0.776389,
+                0.031771,
+                0.032407
+            ]
+        ]
+    },
+    {
+        "image": "img1058665.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(57,103)",
+            "(352,333)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.455729,
+                0.776389,
+                0.032292,
+                0.041667
+            ]
+        ]
+    },
+    {
+        "image": "img1058666.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(57,113)",
+            "(369,357)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.419531,
+                0.777315,
+                0.035937,
+                0.034259
+            ]
+        ]
+    },
+    {
+        "image": "img1058667.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(62,123)",
+            "(372,323)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.41224,
+                0.776852,
+                0.036979,
+                0.040741
+            ]
+        ]
+    },
+    {
+        "image": "img1058668.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(57,107)",
+            "(332,269)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.402344,
+                0.777778,
+                0.035937,
+                0.02963
+            ]
+        ]
+    },
+    {
+        "image": "img1058669.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(66,133)",
+            "(316,307)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.379688,
+                0.778241,
+                0.034375,
+                0.036111
+            ]
+        ]
+    },
+    {
+        "image": "img1058670.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(101,137)",
+            "(337,276)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.335677,
+                0.775463,
+                0.052604,
+                0.04537
+            ]
+        ]
+    },
+    {
+        "image": "img1058671.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(45,132)",
+            "(337,267)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.323437,
+                0.773611,
+                0.035417,
+                0.037963
+            ]
+        ]
+    },
+    {
+        "image": "img1058672.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(103,143)",
+            "(333,273)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.308594,
+                0.773611,
+                0.043229,
+                0.04537
+            ]
+        ]
+    },
+    {
+        "image": "img1058673.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(24,101)",
+            "(329,281)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.295312,
+                0.775463,
+                0.036458,
+                0.047222
+            ]
+        ]
+    },
+    {
+        "image": "img1058674.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(25,107)",
+            "(345,293)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.285417,
+                0.772222,
+                0.047917,
+                0.035185
+            ]
+        ]
+    },
+    {
+        "image": "img1058676.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(64,113)",
+            "(319,313)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.251302,
+                0.766204,
+                0.035937,
+                0.034259
+            ]
+        ]
+    },
+    {
+        "image": "img1058677.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(62,123)",
+            "(252,306)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.240365,
+                0.76713,
+                0.039062,
+                0.037963
+            ]
+        ]
+    },
+    {
+        "image": "img1058775.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(331,785)",
+            "(386,859)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.359896,
+                0.820833,
+                0.020833,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1058776.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(321,782)",
+            "(407,884)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.357812,
+                0.818981,
+                0.020833,
+                0.025
+            ]
+        ]
+    },
+    {
+        "image": "img1058777.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(332,796)",
+            "(389,863)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.350521,
+                0.817593,
+                0.019792,
+                0.02963
+            ]
+        ]
+    },
+    {
+        "image": "img1058778.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(293,757)",
+            "(418,885)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.348958,
+                0.817593,
+                0.019792,
+                0.02963
+            ]
+        ]
+    },
+    {
+        "image": "img1058779.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(274,743)",
+            "(409,913)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.347917,
+                0.815741,
+                0.019792,
+                0.02963
+            ]
+        ]
+    },
+    {
+        "image": "img1058780.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(299,759)",
+            "(374,859)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.196615,
+                0.686574,
+                0.030729,
+                0.034259
+            ]
+        ]
+    },
+    {
+        "image": "img1058781.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(289,759)",
+            "(399,884)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.195833,
+                0.689815,
+                0.026042,
+                0.037037
+            ]
+        ]
+    },
+    {
+        "image": "img1058782.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(291,737)",
+            "(378,849)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.191667,
+                0.681019,
+                0.029167,
+                0.041667
+            ]
+        ]
+    },
+    {
+        "image": "img1058783.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(289,739)",
+            "(384,852)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.191667,
+                0.677778,
+                0.035417,
+                0.040741
+            ]
+        ]
+    },
+    {
+        "image": "img1058784.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(287,735)",
+            "(377,848)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.189062,
+                0.676852,
+                0.029167,
+                0.040741
+            ]
+        ]
+    },
+    {
+        "image": "img1058785.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(279,385)",
+            "(467,833)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.189062,
+                0.671759,
+                0.032292,
+                0.041667
+            ]
+        ]
+    },
+    {
+        "image": "img1058786.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(269,392)",
+            "(483,849)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.186979,
+                0.672222,
+                0.033333,
+                0.040741
+            ]
+        ]
+    },
+    {
+        "image": "img1058788.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(233,333)",
+            "(528,845)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.186458,
+                0.651852,
+                0.039583,
+                0.044444
+            ]
+        ]
+    },
+    {
+        "image": "img1058789.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(233,373)",
+            "(513,814)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.192448,
+                0.650463,
+                0.046354,
+                0.050926
+            ]
+        ]
+    },
+    {
+        "image": "img1058790.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(233,359)",
+            "(528,823)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.189323,
+                0.651852,
+                0.040104,
+                0.044444
+            ]
+        ]
+    },
+    {
+        "image": "img1058791.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(227,358)",
+            "(539,833)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.189844,
+                0.652778,
+                0.041146,
+                0.046296
+            ]
+        ]
+    },
+    {
+        "image": "img1058792.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(233,370)",
+            "(523,804)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.197656,
+                0.644907,
+                0.041146,
+                0.043519
+            ]
+        ]
+    },
+    {
+        "image": "img1058793.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(233,338)",
+            "(547,825)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.201302,
+                0.643981,
+                0.042188,
+                0.041667
+            ]
+        ]
+    },
+    {
+        "image": "img1058794.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(233,330)",
+            "(523,805)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.204427,
+                0.642593,
+                0.040104,
+                0.046296
+            ]
+        ]
+    },
+    {
+        "image": "img1058795.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(231,319)",
+            "(536,784)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.228906,
+                0.636574,
+                0.047396,
+                0.049074
+            ]
+        ]
+    },
+    {
+        "image": "img1058796.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(232,319)",
+            "(547,777)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.241667,
+                0.62963,
+                0.039583,
+                0.046296
+            ]
+        ]
+    },
+    {
+        "image": "img1058797.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(183,299)",
+            "(557,815)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.252083,
+                0.627778,
+                0.034375,
+                0.042593
+            ]
+        ]
+    },
+    {
+        "image": "img1058798.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(183,273)",
+            "(588,813)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.319792,
+                0.628241,
+                0.033333,
+                0.05463
+            ]
+        ]
+    },
+    {
+        "image": "img1058799.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(449,299)",
+            "(557,474)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.329688,
+                0.625,
+                0.0375,
+                0.044444
+            ]
+        ]
+    },
+    {
+        "image": "img1058800.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(449,274)",
+            "(559,474)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.341667,
+                0.624074,
+                0.036458,
+                0.044444
+            ]
+        ]
+    },
+    {
+        "image": "img1058801.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(395,259)",
+            "(615,503)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.403125,
+                0.631019,
+                0.039583,
+                0.050926
+            ]
+        ]
+    },
+    {
+        "image": "img1058802.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(393,239)",
+            "(603,516)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.408854,
+                0.626389,
+                0.035417,
+                0.043519
+            ]
+        ]
+    },
+    {
+        "image": "img1058803.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(385,285)",
+            "(627,528)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.429688,
+                0.631481,
+                0.0375,
+                0.048148
+            ]
+        ]
+    },
+    {
+        "image": "img1058804.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(393,285)",
+            "(633,535)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.454427,
+                0.638889,
+                0.034896,
+                0.046296
+            ]
+        ]
+    },
+    {
+        "image": "img1058805.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(173,258)",
+            "(633,763)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2,
+                0.728241,
+                0.0625,
+                0.075
+            ]
+        ]
+    },
+    {
+        "image": "img1058806.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(407,252)",
+            "(627,556)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2,
+                0.728241,
+                0.0625,
+                0.075
+            ]
+        ]
+    },
+    {
+        "image": "img1058807.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(399,258)",
+            "(639,536)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2,
+                0.728241,
+                0.0625,
+                0.075
+            ]
+        ]
+    },
+    {
+        "image": "img1058808.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(399,247)",
+            "(646,560)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2,
+                0.728241,
+                0.0625,
+                0.075
+            ]
+        ]
+    },
+    {
+        "image": "img1058809.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2,
+                0.728241,
+                0.0625,
+                0.075
+            ]
+        ]
+    },
+    {
+        "image": "img1058810.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.2,
+                0.728241,
+                0.0625,
+                0.075
+            ]
+        ]
+    },
+    {
+        "image": "img1058811.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(123,246)",
+            "(686,786)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.184115,
+                0.71713,
+                0.081771,
+                0.115741
+            ]
+        ]
+    },
+    {
+        "image": "img1058812.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.184115,
+                0.71713,
+                0.081771,
+                0.115741
+            ]
+        ]
+    },
+    {
+        "image": "img1058813.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(421,263)",
+            "(685,549)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.184115,
+                0.71713,
+                0.081771,
+                0.115741
+            ]
+        ]
+    },
+    {
+        "image": "img1058814.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.184115,
+                0.71713,
+                0.081771,
+                0.115741
+            ]
+        ]
+    },
+    {
+        "image": "img1058815.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.184115,
+                0.71713,
+                0.081771,
+                0.115741
+            ]
+        ]
+    },
+    {
+        "image": "img1058816.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(431,333)",
+            "(649,557)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.163021,
+                0.687963,
+                0.104167,
+                0.144444
+            ]
+        ]
+    },
+    {
+        "image": "img1058817.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [],
+        "ground_truth_bounding_boxes": [
+            [
+                0.163021,
+                0.685648,
+                0.104167,
+                0.143519
+            ]
+        ]
+    },
+    {
+        "image": "img1058818.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(427,315)",
+            "(651,535)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.163021,
+                0.680556,
+                0.104167,
+                0.144444
+            ]
+        ]
+    },
+    {
+        "image": "img1058819.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(431,329)",
+            "(655,543)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.163021,
+                0.680556,
+                0.104167,
+                0.144444
+            ]
+        ]
+    },
+    {
+        "image": "img1058820.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(425,323)",
+            "(665,543)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.163021,
+                0.680556,
+                0.104167,
+                0.144444
+            ]
+        ]
+    },
+    {
+        "image": "img1058821.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(421,266)",
+            "(669,532)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058822.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(385,255)",
+            "(709,575)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058823.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(383,233)",
+            "(703,519)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058824.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(403,256)",
+            "(673,476)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058825.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(431,274)",
+            "(666,456)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058826.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(395,253)",
+            "(679,512)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058827.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(419,282)",
+            "(629,456)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058828.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(385,249)",
+            "(659,492)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.132292,
+                0.638889,
+                0.107292,
+                0.162963
+            ]
+        ]
+    },
+    {
+        "image": "img1058829.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(399,252)",
+            "(659,479)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.118229,
+                0.601852,
+                0.085417,
+                0.12037
+            ],
+            [
+                0.118229,
+                0.601852,
+                0.085417,
+                0.12037
+            ]
+        ]
+    },
+    {
+        "image": "img1058830.jpg",
+        "width": 1920,
+        "height": 1080,
+        "bounding_box_prediction": [
+            "(393,253)",
+            "(677,480)"
+        ],
+        "ground_truth_bounding_boxes": [
+            [
+                0.117969,
+                0.600926,
+                0.085938,
+                0.118519
+            ],
+            [
+                0.117969,
+                0.600926,
+                0.085938,
+                0.118519
+            ]
+        ]
+    }
+]
