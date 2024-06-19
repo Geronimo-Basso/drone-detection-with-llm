@@ -5,8 +5,23 @@ from PIL import Image
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.generation import GenerationConfig
-import json
 import time
+import json
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+# Function to parse bounding boxes from text files
+def parse_bounding_boxes(file_path):
+    with open(file_path, 'r') as file:
+        lines = file.readlines()
+    bounding_boxes = []
+    for line in lines:
+        if line.strip() != "0 0 0 0":
+            coords = list(map(float, line.strip().split()))  # Ignore the leading '0'
+            bounding_boxes.append(coords)
+    return bounding_boxes
 
 def make_predictions():
     # Load all images
@@ -46,6 +61,7 @@ def make_predictions():
 
     for file_name in images_filenames:
         image_path = file_name
+        ground_truth_path = file_name.replace('.jpg', '.txt')
 
         query = tokenizer.from_list_format([
             {'image': file_name},
@@ -56,21 +72,33 @@ def make_predictions():
         # Use regex to find all coordinates inside parentheses
         matches = re.findall(r'\(\d+,\d+\)', response)
 
-        if matches and len(matches) % 2 == 0:
-            with Image.open(image_path) as img:
-                image_width, image_height = img.size
+        with Image.open(image_path) as img:
+            image_width, image_height = img.size
 
+        if matches and len(matches) % 2 == 0:
             image_prediction += 1
         else:
             image_no_prediction += 1
 
-        result = {'image': Path(file_name).name, 'bounding_box_prediction': matches}
+        # Parse ground truth bounding boxes
+        if os.path.exists(ground_truth_path):
+            ground_truth_bounding_boxes = parse_bounding_boxes(ground_truth_path)
+        else:
+            ground_truth_bounding_boxes = []
+
+        result = {
+            'image': Path(file_name).name,
+            'width': image_width,
+            'height': image_height,
+            'bounding_box_prediction': matches,
+            'ground_truth_bounding_boxes': ground_truth_bounding_boxes
+        }
         results.append(result)
 
         print(f"Response for {file_name}: {matches}.")
 
     # Save results to JSON
-    output_json_path = os.path.join(base_directory_predictions, 'results-4.json')
+    output_json_path = os.path.join(base_directory_predictions, 'results-5.json')
     with open(output_json_path, 'w') as json_file:
         json.dump(results, json_file, indent=4)
 
@@ -78,7 +106,6 @@ def make_predictions():
     elapsed_time = finish_time - start_time
     print(f"Images with results: {image_prediction}, Images without results: {image_no_prediction}")
     print(f"Total time: {elapsed_time}")
-
 
 
 def calculate_iou(pred_box, gt_box):
@@ -148,13 +175,14 @@ def create_confusion_matrix(ious):
     print(f"No drones detected (False Negatives): {fn}")
     print(f"Percentage of drones correctly detected: {percentage:.2f}%")
 
+
 def analyse_predictions():
-        # Load the JSON data
+    # Load the JSON data
     file_path = 'output/results-4.json'
     with open(file_path, 'r') as file:
         data = json.load(file)
 
-    #normalize data
+        # normalize data
 
     # Calculate IoUs
     ious = calculate_ious(data)
@@ -164,4 +192,4 @@ def analyse_predictions():
 
 
 make_predictions()
-analyse_predictions()
+#analyse_predictions()

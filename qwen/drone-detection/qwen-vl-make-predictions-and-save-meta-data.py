@@ -53,6 +53,7 @@ def normalize_and_format_bounding_boxes(matches, image_width, image_height):
         normalized_boxes.append([center_x, center_y, width, height])
     return normalized_boxes
 
+
 # Function to parse bounding boxes from text files
 def parse_bounding_boxes(file_path):
     with open(file_path, 'r') as file:
@@ -63,6 +64,7 @@ def parse_bounding_boxes(file_path):
             coords = list(map(float, line.strip().split()[1:]))  # Ignore the leading '0'
             bounding_boxes.append(coords)
     return bounding_boxes
+
 
 # Processing images
 image_prediction = 0
