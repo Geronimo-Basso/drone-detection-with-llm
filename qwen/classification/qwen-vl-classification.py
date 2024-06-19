@@ -37,7 +37,7 @@ for file_name in images_filenames:
 
     query = tokenizer.from_list_format([
         {'image': file_name},
-        {"text": "Is there a drone in this photo?"}
+        {"text": "Is there a drone in this photo? Answer only yes o no"}
     ])
     response, history = model.chat(tokenizer, query=query, history=None)
 
