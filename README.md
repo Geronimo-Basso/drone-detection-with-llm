@@ -21,7 +21,3 @@ This project leverages the following models for image classification:
 - **QwenVL:** A high-accuracy model specifically designed for image recognition tasks, capable of detecting and highlighting drones within images.
 - **PaliGemma:** Renowned for its robustness, this model excels in identifying objects under diverse environmental conditions but does not generate bounding boxes.
 - **Llava:** Specializes in precise detection of small objects like drones, contributing to overall detection accuracy but without bounding box capabilities.
-
----
-
-This version is focused on the key aspects of the project: the introduction, features, dataset, and models, making it concise and easy to follow.
