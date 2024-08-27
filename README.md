@@ -3,12 +3,6 @@
 ## Overview
 This repository hosts the code and resources for the Drone Detection project led by the research team at Universidad Europea de Madrid. The project explores the application of advanced models—QwenVL, PaliGemma, and Llava—integrated with vision capabilities to accurately detect drones in images.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Dataset](#dataset)
-4. [Models](#models)
-
 ## Introduction
 The goal of this project is to develop a robust and efficient system for real-time drone detection using state-of-the-art large language models (LLMs) with visual understanding. By leveraging QwenVL, PaliGemma, and Llava, the system aims to deliver high accuracy and reliability in diverse and dynamic environments.
 
